@@ -26,15 +26,6 @@ li {
   margin-right: 8px; /*右側に余白*/
 }
 
-.input-area {
-  background-color: #c1ffff;
-  width: 400px;
-  height: 30px;
-  padding: 8px; /*内側の余白*/
-  margin: 8px; /*外側の余白*/
-  border-radius: 8px; /*角丸*/
-}
-
 .incomplete-area {
   background-color: #c6ffe2;
   width: 400px;
